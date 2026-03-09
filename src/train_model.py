@@ -149,13 +149,7 @@ def train_model(features_df):
         max_depth=6,
         learning_rate=0.1,
         subsample=0.8,
-        colsample_bytree=0.8,
-        min_child_weight=3,
-        reg_alpha=0.1,
-        reg_lambda=1.0,
         random_state=42,
-        eval_metric='logloss',
-        use_label_encoder=False
     )
 
     # Time-series cross-validation (respects temporal ordering)
