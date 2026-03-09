@@ -1,0 +1,212 @@
+{
+  "BOS": {
+    "strength": 0.5503,
+    "home_win_prob": 0.5951,
+    "away_win_prob": 0.5056,
+    "actual_win_rate": 0.5503,
+    "games_analyzed": 169
+  },
+  "NOP": {
+    "strength": 0.4085,
+    "home_win_prob": 0.4771,
+    "away_win_prob": 0.34,
+    "actual_win_rate": 0.3721,
+    "games_analyzed": 172
+  },
+  "NYK": {
+    "strength": 0.5647,
+    "home_win_prob": 0.5518,
+    "away_win_prob": 0.5777,
+    "actual_win_rate": 0.581,
+    "games_analyzed": 179
+  },
+  "LAL": {
+    "strength": 0.5303,
+    "home_win_prob": 0.5363,
+    "away_win_prob": 0.5242,
+    "actual_win_rate": 0.5202,
+    "games_analyzed": 173
+  },
+  "UTA": {
+    "strength": 0.4564,
+    "home_win_prob": 0.4864,
+    "away_win_prob": 0.4264,
+    "actual_win_rate": 0.4573,
+    "games_analyzed": 164
+  },
+  "OKC": {
+    "strength": 0.5671,
+    "home_win_prob": 0.5944,
+    "away_win_prob": 0.5398,
+    "actual_win_rate": 0.565,
+    "games_analyzed": 177
+  },
+  "ATL": {
+    "strength": 0.4987,
+    "home_win_prob": 0.5196,
+    "away_win_prob": 0.4777,
+    "actual_win_rate": 0.503,
+    "games_analyzed": 167
+  },
+  "MEM": {
+    "strength": 0.4918,
+    "home_win_prob": 0.5135,
+    "away_win_prob": 0.4702,
+    "actual_win_rate": 0.497,
+    "games_analyzed": 169
+  },
+  "MIL": {
+    "strength": 0.4695,
+    "home_win_prob": 0.4766,
+    "away_win_prob": 0.4625,
+    "actual_win_rate": 0.4576,
+    "games_analyzed": 177
+  },
+  "IND": {
+    "strength": 0.4135,
+    "home_win_prob": 0.4089,
+    "away_win_prob": 0.4181,
+    "actual_win_rate": 0.3988,
+    "games_analyzed": 173
+  },
+  "CHA": {
+    "strength": 0.5172,
+    "home_win_prob": 0.5693,
+    "away_win_prob": 0.465,
+    "actual_win_rate": 0.5439,
+    "games_analyzed": 171
+  },
+  "POR": {
+    "strength": 0.4963,
+    "home_win_prob": 0.5442,
+    "away_win_prob": 0.4484,
+    "actual_win_rate": 0.4847,
+    "games_analyzed": 163
+  },
+  "DET": {
+    "strength": 0.5609,
+    "home_win_prob": 0.6146,
+    "away_win_prob": 0.5072,
+    "actual_win_rate": 0.5824,
+    "games_analyzed": 170
+  },
+  "WAS": {
+    "strength": 0.491,
+    "home_win_prob": 0.5239,
+    "away_win_prob": 0.458,
+    "actual_win_rate": 0.5254,
+    "games_analyzed": 177
+  },
+  "PHX": {
+    "strength": 0.5207,
+    "home_win_prob": 0.5549,
+    "away_win_prob": 0.4864,
+    "actual_win_rate": 0.5176,
+    "games_analyzed": 170
+  },
+  "GSW": {
+    "strength": 0.4579,
+    "home_win_prob": 0.4939,
+    "away_win_prob": 0.4218,
+    "actual_win_rate": 0.454,
+    "games_analyzed": 163
+  },
+  "CHI": {
+    "strength": 0.4471,
+    "home_win_prob": 0.468,
+    "away_win_prob": 0.4262,
+    "actual_win_rate": 0.4438,
+    "games_analyzed": 178
+  },
+  "PHI": {
+    "strength": 0.5438,
+    "home_win_prob": 0.5361,
+    "away_win_prob": 0.5515,
+    "actual_win_rate": 0.5476,
+    "games_analyzed": 168
+  },
+  "DEN": {
+    "strength": 0.556,
+    "home_win_prob": 0.5523,
+    "away_win_prob": 0.5598,
+    "actual_win_rate": 0.5689,
+    "games_analyzed": 167
+  },
+  "HOU": {
+    "strength": 0.5187,
+    "home_win_prob": 0.5324,
+    "away_win_prob": 0.505,
+    "actual_win_rate": 0.5029,
+    "games_analyzed": 173
+  },
+  "BKN": {
+    "strength": 0.4497,
+    "home_win_prob": 0.4791,
+    "away_win_prob": 0.4203,
+    "actual_win_rate": 0.45,
+    "games_analyzed": 180
+  },
+  "DAL": {
+    "strength": 0.4519,
+    "home_win_prob": 0.4527,
+    "away_win_prob": 0.4511,
+    "actual_win_rate": 0.4407,
+    "games_analyzed": 177
+  },
+  "SAC": {
+    "strength": 0.4434,
+    "home_win_prob": 0.4624,
+    "away_win_prob": 0.4244,
+    "actual_win_rate": 0.4438,
+    "games_analyzed": 169
+  },
+  "MIA": {
+    "strength": 0.4641,
+    "home_win_prob": 0.5202,
+    "away_win_prob": 0.4081,
+    "actual_win_rate": 0.4682,
+    "games_analyzed": 173
+  },
+  "CLE": {
+    "strength": 0.5292,
+    "home_win_prob": 0.5406,
+    "away_win_prob": 0.5178,
+    "actual_win_rate": 0.5341,
+    "games_analyzed": 176
+  },
+  "SAS": {
+    "strength": 0.5789,
+    "home_win_prob": 0.5571,
+    "away_win_prob": 0.6007,
+    "actual_win_rate": 0.5943,
+    "games_analyzed": 175
+  },
+  "TOR": {
+    "strength": 0.5037,
+    "home_win_prob": 0.5615,
+    "away_win_prob": 0.4459,
+    "actual_win_rate": 0.5058,
+    "games_analyzed": 172
+  },
+  "ORL": {
+    "strength": 0.4924,
+    "home_win_prob": 0.4839,
+    "away_win_prob": 0.501,
+    "actual_win_rate": 0.4884,
+    "games_analyzed": 172
+  },
+  "MIN": {
+    "strength": 0.5243,
+    "home_win_prob": 0.5404,
+    "away_win_prob": 0.5083,
+    "actual_win_rate": 0.52,
+    "games_analyzed": 175
+  },
+  "LAC": {
+    "strength": 0.4892,
+    "home_win_prob": 0.4856,
+    "away_win_prob": 0.4927,
+    "actual_win_rate": 0.4795,
+    "games_analyzed": 171
+  }
+}
